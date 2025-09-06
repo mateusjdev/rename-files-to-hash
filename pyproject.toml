@@ -5,3 +5,6 @@ description = "Single python file to rename all files in a directory to their ha
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = ["blake3>=1.0.4"]
+
+[project.scripts]
+rname = "rname.rname:main"

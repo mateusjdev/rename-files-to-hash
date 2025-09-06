@@ -34,7 +34,7 @@ class ErrorExitCode:
     SOFT_ERROR = 5
 
 
-VERSION = "v3"
+VERSION = "v3.0.1"
 
 # TODO: better format for logging (https://stackoverflow.com/q/384076)
 LOGGING_FORMAT = "rename.py: %(message)s"
